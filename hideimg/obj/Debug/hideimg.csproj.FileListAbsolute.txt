@@ -1,0 +1,13 @@
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\bin\Debug\hideimg.exe.config
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\bin\Debug\hideimg.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\bin\Debug\hideimg.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\MainWindow.baml
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\MainWindow.g.cs
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\App.g.cs
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg_MarkupCompile.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg.g.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\hideimg\hideimg\obj\Debug\hideimg.pdb
